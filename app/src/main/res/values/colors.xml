@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC50C</color>
+    <color name="colorPrimaryDark">#FFC50C</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="facebookBlue">#3F5996</color>
+    <color name="twitterBlue">#29C5F6</color>
+    <color name="googleRed">#D03E2f</color>
+    <color name="white">#ffff</color>
+    <color name="transparent">#ffff</color>
+    <color name="black">#000</color>
+
+</resources>
